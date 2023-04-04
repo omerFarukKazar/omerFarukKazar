@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerFarukKazar
 - 👀 I’m interested in iOS Mobile Development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift & SwiftUI
 - 📫 How to reach me: omer.kazar22@gmail.com
 
 <!---
