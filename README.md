@@ -35,12 +35,6 @@
 
 <br>
 
-### 💻 Check out my work:
-
-Feel free to browse my pinned repositories and visit my portfolio site for a deeper dive into my projects. You'll get a good sense of my coding style and problem-solving approach.
-
-<br>
-
 ---
 
 <br>
