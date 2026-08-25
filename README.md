@@ -41,4 +41,4 @@
 
 ### 🤙 Let's connect:
 
-[Connect on LinkedIn](https://www.linkedin.com/in/ömer-faruk-kazar) | [omer.kazar@icloud.com](mailto:omer.kazar@icloud.com)
+[Connect on LinkedIn](https://www.linkedin.com/in/omerfarukkazar/) | [omer.kazar@icloud.com](mailto:omer.kazar@icloud.com)
